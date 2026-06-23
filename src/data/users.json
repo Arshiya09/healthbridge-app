@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "email": "admin@gmail.com",
+    "password": "123456"
+  },
+  {
+    "id": 1,
+    "name": "Arshiya",
+    "email": "arshiya@healthbridge.com",
+    "password": "password123"
+  },
+  {
+    "id": 2,
+    "name": "Usman",
+    "email": "usman@healthbridge.com",
+    "password": "admin123"
+  }
+]

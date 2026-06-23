@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Ava Patel, MD",
+    "specialty": "Cardiology & Internal Medicine",
+    "rating": 4.9,
+    "distance": "1.2 km",
+    "network": "In-Network",
+    "nextSlot": "Available this Friday at 10:30 AM",
+    "image": "https://randomuser.me/api/portraits/women/44.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Dr. Marcus Thorne, DO",
+    "specialty": "Physical Therapy",
+    "rating": 4.8,
+    "distance": "2.4 km",
+    "network": "In-Network",
+    "nextSlot": "Available this Monday at 09:00 AM",
+    "image": "https://randomuser.me/api/portraits/men/32.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Dr. Elena Petrova, MD",
+    "specialty": "Dermatology Specialist",
+    "rating": 5.0,
+    "distance": "0.8 km",
+    "network": "Out-of-Network",
+    "nextSlot": "Available this Friday at 02:30 PM",
+    "image": "https://randomuser.me/api/portraits/women/68.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Dr. James Wilson, MD",
+    "specialty": "Neurology Specialist",
+    "rating": 4.7,
+    "distance": "4.1 km",
+    "network": "In-Network",
+    "nextSlot": "Available this Friday at 11:15 AM",
+    "image": "https://randomuser.me/api/portraits/men/75.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Dr. Sarah Chen, MD",
+    "specialty": "Pediatrician",
+    "rating": 4.9,
+    "distance": "3.5 km",
+    "network": "In-Network",
+    "nextSlot": "Available this Friday at 04:00 PM",
+    "image": "https://randomuser.me/api/portraits/women/90.jpg"
+  }
+]
