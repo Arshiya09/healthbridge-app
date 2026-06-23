@@ -156,7 +156,9 @@ healthbridge-app/
 ## APK
 
 The APK file is available in the **Releases** section of this repository, or download directly:
-`/apk/healthbridge-release.apk`
+You can install and test the latest Android build using the link below:
+
+`https://expo.dev/accounts/arshiyak572/projects/Healthbridge2/builds/73452cae-c95a-4756-b09c-aa43d3b66a7e`
 
 To install on Android:
 
